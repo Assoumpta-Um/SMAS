@@ -1,0 +1,24 @@
+:root {
+  --primary: #fcb900;
+}
+.btn {
+  border: none;
+  background: transparent;
+  padding: 6px 16px;
+  font-size: 1.1rem;
+  color: #fff;
+  border-radius: 5px;
+  transition: 0.3s all ease-out;
+  cursor: pointer;
+  margin-right: 1.5rem;
+  background-color: var(--primary);
+  font-family: "Roboto Condensed", sans-serif;
+}
+.btn:hover {
+  color: #fcb900;
+  background: #fff;
+  padding: 6px 18px;
+  transition: all 0.3s ease-out;
+  border-radius: 4px;
+  border: 2px solid var(--primary);
+}

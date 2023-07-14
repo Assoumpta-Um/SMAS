@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow&family=MuseoModerno&family=Poppins&family=Raleway:wght@300;900&family=Roboto+Condensed:wght@700&display=swap");
+span {
+  color: #ce9a0c;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.bodyz {
+  background-image: linear-gradient(79deg, #7439db 48%, #f7944d);
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+}
+.create {
+  max-width: 600px;
+  padding-top: 1rem;
+  margin: 0 auto;
+  text-align: center;
+}
+.create label {
+  text-align: left;
+  display: block;
+}
+.create h1 {
+  font-size: 20px;
+  color: #ffffff;
+  margin-bottom: 30px;
+  text-decoration: underline;
+}
+.create input {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  border-radius: 5px;
+  display: block;
+  font-family: "Poppins", sans-serif;
+}
+.create button {
+  background: #ce9a0c;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-bottom: 15px;
+}
+
+.not-found {
+  margin-top: 15em;
+  text-align: center;
+}
